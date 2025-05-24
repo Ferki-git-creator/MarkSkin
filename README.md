@@ -1,4 +1,4 @@
-```markdown
+
 <p align="center">
   <img src="./markskin_banner.png" alt="Markskin Banner" width="800">
 </p>
