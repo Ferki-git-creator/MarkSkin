@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./markskin-banner.png" alt="Markskin Banner" width="800">
+  <img src="./markskin_banner.png" alt="Markskin Banner" width="800">
 </p>
 
 <h1 align="center">Markskin</h1>
